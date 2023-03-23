@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yukitomeow Yukimi Otagiri
 - 👀 I’m interested in ... Contemporary  arts and opera
-- 🌱 I’m currently learning ...JS
+- 🌱 I’m currently learning ...Data structure
 - 💞️ I’m looking to collaborate on ...??
 - 📫 How to reach me ...yukimi.otagiri@gmail.com
 
